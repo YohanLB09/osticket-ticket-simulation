@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" height="100%" width="100%" alt="Setting Up in Azure"/>
 <br />
 
-<h1>osTicket - Ticket Simulation</h1>
+<h1>osTicket - End-User Ticketing & Helpdesk Resolution</h1>
 
 <h2>Description</h2>
 In this guided lab, we will simulate real-world helpdesk interactions by experiencing both creating an end-user troubleshooting ticket and acting as a helpdesk agent resolving it.<br/>
