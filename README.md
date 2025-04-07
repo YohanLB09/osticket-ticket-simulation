@@ -22,15 +22,13 @@ In this guided lab, we will simulate real-world helpdesk interactions by experie
 
 <h2>High-Level Steps</h2>
 
-- Step 1: Login to osTicket
-- Step 2: Configure Roles
-- Step 3: Configure Departments
-- Step 4: Configure a Team
-- Step 5: Verify permissions for ticket creation
-- Step 6: Configure Agents
-- Step 7: Configure Users
-- Step 8: Configure SLA
-- Step 9: Configure Help Topics
+- Step 1: Login to osTicket environments
+- Step 2: Create a ticket
+- Step 3: Observe and set ticket properties
+- Step 4: Resolve the ticket 
+- Step 5: Mark the ticket as resolved 
+- Step 6: Create and resolve another ticket
+
 
 
 <h2></h2>
