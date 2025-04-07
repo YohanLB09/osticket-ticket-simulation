@@ -12,7 +12,7 @@ In this guided lab, we will simulate real-world helpdesk interactions by experie
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop Connection
-- Internet Information Services (IIS)
+- osTicket
 
 
 <h2>Operating Systems Used </h2>
