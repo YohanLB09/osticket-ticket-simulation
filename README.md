@@ -31,7 +31,7 @@ In this guided lab, we will simulate real-world helpdesk interactions by experie
 
 
 
-<h2></h2>
+<h2>Project Walk-through:</h2>
 
 <h3></h3>
 <p>
