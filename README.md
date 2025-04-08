@@ -89,21 +89,30 @@ For example:
 
 
 
-<h3>Step :</h3>
+<h3>Step 4: Resolve the ticket</h3>
 <p>
-<img src="" height="100%" width="100%" alt="Configuration step"/>
+<img src="https://i.imgur.com/Vl9LN9C.png" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
+-Logout from the current agent's account, and login as the other agent ("David" in my case).
 
+-Access the ticket and assign it to the current agent's name.
+You can also write a short message to specify that you will take charge of the ticket (e.g., "I'll be taking charge of this ticket").
 </p>
 <br />
 
 
 <p>
-<img src="" height="100%" width="100%" alt="Configuration step"/>
+<img src="https://i.imgur.com/NABiU3X.png" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
+-From the ticket's properties page, you can also communicate findings and actions taken with other agents and/or end-users about the troubleshooting process. Proper documentation ensures transparency, continuity, and efficiency in resolving the issue. It helps agents track progress, prevents duplicate future efforts, and provides a clear history of troubleshooting steps. Additionally, keeping end-users informed improves communication and user satisfaction throughout the resolution process.
 
+-As for the troubleshooting process for the network issue at hand, it was confirmed to be a DHCP server misconfiguration due to a limited subnet range that could not accommodate the growing number of users. As more devices joined the network, the DHCP server ran out of available IP addresses, leading to IP conflicts when multiple devices were assigned the same IP. This resulted in unstable connections as affected devices lost and regained network access intermittently.
+
+Solution:
+1) To resolve this issue, it was recommended to increase the subnet range (e.g., move from /24 to /23 if possible) to have more available IP addresses.
+2) If expanding the subnet wasn't an option immediately, temporarily reducing the lease time while planning for a subnet expansion would have been another short-term solution.
 </p>
 <br />
 
