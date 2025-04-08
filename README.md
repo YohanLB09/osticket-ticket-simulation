@@ -66,6 +66,29 @@ For example:
 
 
 
+<h3>Step 3: Observe and set ticket properties</h3>
+<p>
+<img src="https://i.imgur.com/5JU59uX.png" height="100%" width="100%" alt="Configuration step"/>
+</p>
+<p>
+-Back in the admin/agent panel, refresh the page the new ticket to observe its properties (Subject, Communications, Priority, Department, SLA, Assignation). Notice that I cannot make any changes to the ticket properties. Like mentioned previously, it's because I have View-only permissions on this agent account. The purpose of this is simply to show you what kind of access an agent configured with View-only has.
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/xEACRRQ.png" height="100%" width="100%" alt="Configuration step"/>
+</p>
+<p>
+-To assign this ticket to the approptiate agent, go back to the admin account and assign it to "Level II Support" so that the other agent (may be different in your case), which is part of this team and is inherently considered more capable compared to the first agent, will be able to take charge and modify the ticket as needed. You can also specify a reason for this change of assignation (e.g., "Wide business impact due to network issue, assigning this ticket to Level II support Team").
+
+-Additionally, change the SLA Plan to "Sev-A" instead of "Default SLA", and specify the reason for this change (e.g., "Wide impact, multiple users are experiencing intermittent network connectivity issues. Requires immediate attention.").
+</p>
+<br />
+
+
+
+
 <h3>Step :</h3>
 <p>
 <img src="" height="100%" width="100%" alt="Configuration step"/>
@@ -76,9 +99,6 @@ For example:
 <br />
 
 
-
-
-<h3>Step :</h3>
 <p>
 <img src="" height="100%" width="100%" alt="Configuration step"/>
 </p>
