@@ -34,7 +34,7 @@ In this guided lab, we will simulate real-world helpdesk interactions by experie
 
 <h2>Project Walk-through:</h2>
 
-<h3>Login to osTicket</h3>
+<h3>Step 1: Login to osTicket</h3>
 <p>
 <img src="https://i.imgur.com/oatnDNZ.png" height="100%" width="100%" alt="Configuration step"/>
 </p>
@@ -44,6 +44,96 @@ Admin/agent Login Page: http://localhost/osTicket/scp/login.php.
 </p>
 <br />
 
+
+
+
+<h3>Step 2: Create a troubleshooting ticket</h3>
+<p>
+<img src="https://i.imgur.com/fI6XrMH.png" height="100%" width="100%" alt="Configuration step"/>
+</p>
+<p>
+-From within Microsoft Edge, open another tab and access the end-user portal at http://localhost/osTicket.
+
+-From there, click on "Open a New Ticket", and then fill in the contact information using the previously created end-user information to create a troubleshooting ticket.
+For example: 
+- Help Topic: Report a Problem 
+- Issue Summary: Network connectivity issue 
+- Detailed explanation: Many of my employees are experiencing connectivity issues, it occurs at random time and has been consistent for many hours.
+ (Cause IP conflict due to DHCP misconfig; requires Level II support)  
+</p>
+<br />
+
+
+
+
+<h3>Step :</h3>
+<p>
+<img src="" height="100%" width="100%" alt="Configuration step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+
+
+<h3>Step :</h3>
+<p>
+<img src="" height="100%" width="100%" alt="Configuration step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+
+
+<h3>Step :</h3>
+<p>
+<img src="" height="100%" width="100%" alt="Configuration step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+
+
+<h3>Step :</h3>
+<p>
+<img src="" height="100%" width="100%" alt="Configuration step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+
+
+<h3>Step :</h3>
+<p>
+<img src="" height="100%" width="100%" alt="Configuration step"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+
+
+<h3>Step :</h3>
+<p>
+<img src="" height="100%" width="100%" alt="Configuration step"/>
+</p>
+<p>
+
+</p>
+<br />
 
 
 
