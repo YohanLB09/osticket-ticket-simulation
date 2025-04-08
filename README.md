@@ -22,7 +22,7 @@ In this guided lab, we will simulate real-world helpdesk interactions by experie
 
 <h2>High-Level Steps</h2>
 
-- Step 1: Login to osTicket environments
+- Step 1: Login to osTicket
 - Step 2: Create a ticket
 - Step 3: Observe and set ticket properties
 - Step 4: Resolve the ticket 
@@ -34,12 +34,13 @@ In this guided lab, we will simulate real-world helpdesk interactions by experie
 
 <h2>Project Walk-through:</h2>
 
-<h3></h3>
+<h3>Login to osTicket</h3>
 <p>
-<img src="" height="100%" width="100%" alt="Configuration step"/>
+<img src="https://i.imgur.com/oatnDNZ.png" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
-jhklyg
+-Back in your Windows VM, navigate to Microsoft Edge and login to the admin/agent portal as the previously created osTicket agent account (whichever you created). In my case, I logged in as Daniel which I know is part of the support department and has View-only access.
+Admin/agent Login Page: http://localhost/osTicket/scp/login.php.
 </p>
 <br />
 
