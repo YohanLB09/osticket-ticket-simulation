@@ -71,7 +71,7 @@ For example:
 <img src="https://i.imgur.com/5JU59uX.png" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
--Back in the admin/agent panel, refresh the page the new ticket to observe its properties (Subject, Communications, Priority, Department, SLA, Assignation). Notice that I cannot make any changes to the ticket properties. Like mentioned previously, it's because I have View-only permissions on this agent account. The purpose of this is simply to show you what kind of access an agent configured with View-only has.
+-Back in the admin/agent panel, refresh the page and access the new ticket to observe its properties (Subject, Communications, Priority, Department, SLA, Assignation). Notice that I cannot make any changes to the ticket properties. Like mentioned previously, it's because I have View-only permissions on this agent account. The purpose of this is simply to show you what kind of access an agent configured with View-only has.
 </p>
 <br />
 
