@@ -59,7 +59,7 @@ hjgjgj
 
 <h2>End-User Ticketing & Helpdesk Resolution process in now complete!</h2>
 
-<b>We've successfully gone through the life cycle of a ticket from creation to resolution, made changes to the tickets when necessary like assigning the tickets, changing the SLA (Service Level Agreement), and commenting to create a thread of clear communication!</b>
+<b>We've successfully gone through the life cycle of a ticket from creation to resolution, made changes to the tickets when necessary like assigning the tickets, changing the SLA (Service Level Agreement), commenting to create a thread of clear communication, as well as practicing with different ticket scenarios.</b>
 <br />
 <br />
 </p>
