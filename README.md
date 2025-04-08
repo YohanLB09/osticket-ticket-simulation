@@ -27,7 +27,7 @@ In this guided lab, we will simulate real-world helpdesk interactions by experie
 - Step 3: Observe and set ticket properties
 - Step 4: Resolve the ticket 
 - Step 5: Mark the ticket as resolved 
-- Step 6: Create and resolve another ticket
+- Step 6: Practice with ChatGPT
 - Step 7: Cleanup the lab
 
 
@@ -119,19 +119,19 @@ Solution:
 
 
 
-<h3>Step :</h3>
+<h3>Step 5:Mark the ticket as resolved</h3>
 <p>
-<img src="" height="100%" width="100%" alt="Configuration step"/>
+<img src="https://i.imgur.com/tnX8hAd.png" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
-
+-Once the remediated issue has been confirmed with the impacted users, the agent can mark the ticket as resolved.
 </p>
 <br />
 
 
 
 
-<h3>Step :</h3>
+<h3>Step 6: Practice with ChatGPT</h3>
 <p>
 <img src="" height="100%" width="100%" alt="Configuration step"/>
 </p>
