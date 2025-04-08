@@ -28,6 +28,7 @@ In this guided lab, we will simulate real-world helpdesk interactions by experie
 - Step 4: Resolve the ticket 
 - Step 5: Mark the ticket as resolved 
 - Step 6: Create and resolve another ticket
+- Step 7: Cleanup the lab
 
 
 
@@ -45,14 +46,23 @@ jhklyg
 
 
 
-<h3></h3>
+<h3>Step 7: Cleanup the lab</h3>
 <p>
-<img src="" width="100%" alt="Configuration step"/>
+<img src="https://i.imgur.com/Alt4mSy.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-hjgjgj
+-Back in Azure, type "Resource groups" in the search and delete the Resource Group created at the beginning of this lab (if you see a second one, delete it too). Your VMs will be deleted subsequently because they are part of the Resource Group.
 </p>
 <br />
+
+
+
+
+<p>
+<img src="https://i.imgur.com/s3gHEyF.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+-Verify Resource Groups deletion to ensure that no resources are left behind, preventing unnecessary costs and resource consumption. 
 
 
 
