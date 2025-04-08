@@ -119,7 +119,7 @@ Solution:
 
 
 
-<h3>Step 5:Mark the ticket as resolved</h3>
+<h3>Step 5: Mark the ticket as resolved</h3>
 <p>
 <img src="https://i.imgur.com/tnX8hAd.png" height="100%" width="100%" alt="Configuration step"/>
 </p>
@@ -133,36 +133,13 @@ Solution:
 
 <h3>Step 6: Practice with ChatGPT</h3>
 <p>
-<img src="" height="100%" width="100%" alt="Configuration step"/>
+<img src="https://i.imgur.com/ZvxkpCl.png" height="100%" width="100%" alt="Configuration step"/>
 </p>
 <p>
-
+-I recommend practicing troubleshooting scenarios with ChatGPT where you act as the Helpdesk agent and ChatGPT as the end-user, while using osTicket to simulate the process (use a different end-user and helpdesk agent; make adequate changes to permissions/access rights where needed from the admin account). This approach will help you enhance your problem-solving skills, improve ticket management workflows, and familiarize yourself with real-world troubleshooting cases. You can create realistic scenarios, document your findings, and practice communicating with users in a professional, clear manner, all while managing tickets efficiently.
 </p>
 <br />
 
-
-
-
-<h3>Step :</h3>
-<p>
-<img src="" height="100%" width="100%" alt="Configuration step"/>
-</p>
-<p>
-
-</p>
-<br />
-
-
-
-
-<h3>Step :</h3>
-<p>
-<img src="" height="100%" width="100%" alt="Configuration step"/>
-</p>
-<p>
-
-</p>
-<br />
 
 
 
@@ -174,8 +151,6 @@ Solution:
 -Back in Azure, type "Resource groups" in the search and delete the Resource Group created at the beginning of this lab (if you see a second one, delete it too). Your VMs will be deleted subsequently because they are part of the Resource Group.
 </p>
 <br />
-
-
 
 
 <p>
