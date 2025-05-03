@@ -8,6 +8,8 @@
 In this guided lab, we will simulate real-world helpdesk interactions by experiencing both creating an end-user troubleshooting ticket and acting as a helpdesk agent resolving it.<br/>
 <br/>
 
+<br />This project is a continuation of [osTicket: Post-Installation Configuration](https://github.com/YohanLB09/osticket-post-install-config), so this project picks up where we left off.<br />
+
 <h2>Environments and Technologies</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
